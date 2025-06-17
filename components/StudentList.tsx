@@ -1,3 +1,5 @@
+"use client";
+
 import StudentCard from "./StudentCard";
 import { Student } from "../types";
 
